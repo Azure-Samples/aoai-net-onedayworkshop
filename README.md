@@ -53,7 +53,7 @@ If you prefer local execution bBe sure to have the following pre-requisites inst
 
 | Time | Topic | Content |
 |------|-------|---------|
-|09:00 - 10:30 | **Welcome** and overview | An [introduction](./00_IntroWorkshop/OpenAI-Workshop.pdf) of Azure Open AI for .net developer. |
+|09:00 - 10:30 | **Welcome** and overview | An [introduction](./00_IntroWorkshop/OpenAI-Workshop.pdf) of Azure OpenAI for .net developer. |
 |10:30 - 11:00 | **Intro** Create Environment | [Portal](https://portal.azure.com) or [CLI](./01_CreateEnvironment/01_Environment.ipynb)  |
 |11:00 - 11:30 | **RAG** Completion | [Chat Completion HTTP](./02_RAG/02_01_ChatCompletion/01_ChatCompletionText_REST.ipynb) or [Chat Completion SDK](./02_RAG/02_01_ChatCompletion) and [Chat Completion - Image insights](./02_RAG/02_01_ChatCompletion/03_ImageCompletion.ipynb) and [Chat Completion - Image generation](./02_RAG/02_01_ChatCompletion/04_CreateImageCompletion.ipynb) |
 |11:30 - 12:30 | **RAG** Embeddings | [Text Embeddings](./02_RAG/02_02_Embedding/01_TextEmbeddings.ipynb) or [Image Embeddings](./02_RAG/02_02_Embedding/02_ImageEmbeddings.ipynb) and [Cosine Similarity](./02_RAG/02_02_Embedding/03_CosineSimilarity.ipynb) |
